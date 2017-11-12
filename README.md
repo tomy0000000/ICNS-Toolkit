@@ -6,7 +6,7 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/Apple_Developer_Tools#Ico
 >As of Xcode 8.2, Icon Composer is no longer available in Additional Tools, as it cannot create high resolution icons. Apple recommends using the command-line utility `iconutil`, which ships with macOS.
 
 So there you go: 
-![]()
+![](https://raw.githubusercontent.com/tomy0000000/ICNS-Toolkit/master/Media/Terminal%20man%20Page.png)
 
 # User Manual
 With `Convert to Apple Icon Image format` App, you can drag your transparent PNG file on to it. The workflow application will automatically convert the picture into `.icns` icon file, placing on Desktop.
